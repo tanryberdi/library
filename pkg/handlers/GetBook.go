@@ -24,5 +24,4 @@ func GetBook(w http.ResponseWriter, r *http.Request) {
 			break
 		}
 	}
-
 }

@@ -24,3 +24,8 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# for GoLand
+.idea/library.iml
+.idea/modules.xml
+.idea/vcs.xml

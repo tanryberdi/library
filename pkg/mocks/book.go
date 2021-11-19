@@ -15,4 +15,10 @@ var Books = []models.Book{
 		Author: "Orazz",
 		Desc: "Good tutorial",
 	},
+	{
+		Id: 3,
+		Title: "Python3",
+		Author: "Orazz3",
+		Desc: "bad tutorial",
+	},
 }

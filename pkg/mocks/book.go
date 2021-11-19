@@ -9,4 +9,16 @@ var Books = []models.Book{
 		Author: "Gopher",
 		Desc:   "A book for Go",
 	},
+	{
+		Id: 2,
+		Title: "Python",
+		Author: "Orazz",
+		Desc: "Good tutorial",
+	},
+	{
+		Id: 3,
+		Title: "Python3",
+		Author: "Orazz3",
+		Desc: "bad tutorial",
+	},
 }
